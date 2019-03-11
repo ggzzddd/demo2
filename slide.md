@@ -17,10 +17,10 @@ By ChuangLan {.text-intro}
 ### 方法有很多
 ---
 
-1. **github Issuses**{.heartBeat}
-2. **github Hexo**{.swing}
-3. **PHP wordprass**{.slideInUp}
-4. **自己使用的语言**{.flipInX}
+1. ### **github Issuses**{.heartBeat}
+2. ### **github Hexo**{.swing}
+3. ### **PHP wordprass**{.slideInUp}
+4. ### **自己使用的语言**{.flipInX}
 {.text-cols.build}
 
 
@@ -33,7 +33,7 @@ By ChuangLan {.text-intro}
 
 <slide :class="size-50">
 
-## 不过不要担心，让我们一个一个过一遍
+## 让我们一个一个的来过一遍！！！！
 
 <slide :class="size-50">
 
@@ -45,7 +45,7 @@ By ChuangLan {.text-intro}
 
 <slide :class="size-50" >
 
-#本地启动
+# 本地启动
 
 ```
 npm install hexo-cli -g
@@ -71,12 +71,12 @@ git commit -m "first commit"
 git remote add origin git@github.com:ggzzddd/ggzzdd.github.io.git
 git push -u origin master
 
-//上传前需改
-_config.yml (自己名字)
+//上传前需改 自己的仓库地址
+_config.yml 
 
 deploy:
     type: git
-    repository: git@github.com:ggzzdd/ggzzdd.github.io.git
+    repository: git@github.com:ggzzddd/ggzzddd.github.io.git  
     branch: master
 
             
@@ -124,6 +124,20 @@ hexo d
 * [继续搜索 继续搜索](https://ryanc.cc/archives/how-to-use-h2-database)
 
 <slide :class="size-50 aligncenter" >
+## docker
+
+```
+docker 启动停止
+
+sudo docker start 0e5ff
+
+sudo docker stop 0e5ff
+
+```
+[https://yeasy.gitbooks.io/docker_practice/content/](https://yeasy.gitbooks.io/docker_practice/content/)
+[https://letong.gitbooks.io/docker/content/](https://letong.gitbooks.io/docker/content/)
+
+<slide :class="size-50 aligncenter" >
 
 # 花钱的时候到了
 
@@ -133,7 +147,7 @@ hexo d
 ---
 
 1. **购买阿里云服务器 我选择了centos 7 的系统**{.heartBeat}
-2. **购买域名，.top 第一年一元  实名认证 备案**{.swing}
+2. **购买域名，.top 几块钱一年  实名认证 备案**{.swing}
 {.text-cols.build}
 
 <slide :class="size-50 aligncenter" >
@@ -163,5 +177,5 @@ github地址
 
 <slide :class="size-50 aligncenter" >
 
-# [成功后是什么样子呢!](gaozhidong.top)
+# [成功后是什么样子呢!](http://gaozhidong.top)
 
