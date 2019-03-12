@@ -20,20 +20,23 @@ By ChuangLan {.text-intro}
 1. ### **github Issuses**{.heartBeat}
 2. ### **github Hexo**{.swing}
 3. ### **PHP wordprass**{.slideInUp}
-4. ### **自己使用的语言**{.flipInX}
+4. ### **...**{.flipInX}
 {.text-cols.build}
 
 
 <slide :class="size-50">
 
-## 今天主要讲的是?
+## 今天干啥呢?
+
+
 <slide :class="size-50 aligncenter">
+## 准备操作！！
+---
 
-# **java**
+1. ### **github**{.heartBeat}
+2. ### **ｊａｖａ**{.swing}
+{.text-cols.build}
 
-<slide :class="size-50">
-
-## 让我们一个一个的来过一遍！！！！
 
 <slide :class="size-50">
 
@@ -99,7 +102,7 @@ hexo d
 	
 # PHP wordprass
 
-![image](./001.jpg)
+![image](./001.png)
 
 
 <slide :class="size-50" >
@@ -135,6 +138,7 @@ sudo docker stop 0e5ff
 
 ```
 [https://yeasy.gitbooks.io/docker_practice/content/](https://yeasy.gitbooks.io/docker_practice/content/)
+
 [https://letong.gitbooks.io/docker/content/](https://letong.gitbooks.io/docker/content/)
 
 <slide :class="size-50 aligncenter" >
