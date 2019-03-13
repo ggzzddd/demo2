@@ -67,11 +67,11 @@ hexo server (s) //本地启动
 
 ```
 新建一个仓库 （.github.io） 结尾
-echo "# ggzzdd.github.io" >> README.md　　　//创建一个readme文件，并写入 # ggzzdd.github.io
+echo "# ggzzddd.github.io" >> README.md　　　//创建一个readme文件，并写入 # ggzzddd.github.io
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin git@github.com:ggzzddd/ggzzdd.github.io.git
+git remote add origin git@github.com:ggzzddd/ggzzddd.github.io.git
 git push -u origin master
 
 //上传前需改 自己的仓库地址
